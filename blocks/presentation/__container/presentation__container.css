@@ -1,0 +1,8 @@
+.presentation__container  {
+    background-color: #E98EAD;
+    padding: 54px 72px;
+    max-width: 1280px;
+    margin-top: 99px;
+    z-index: 2;
+    position: relative;
+}

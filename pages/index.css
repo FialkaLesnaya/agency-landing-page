@@ -10,3 +10,10 @@
 @import url('../blocks/header/__menu-list/header__menu-list.css');
 @import url('../blocks/header/__menu/header__menu.css');
 @import url('../blocks/header/header.css');
+
+@import url('../blocks/presentation/presentation.css');
+@import url('../blocks/presentation/__container/presentation__container.css');
+@import url('../blocks/presentation/__description/presentation__description.css');
+@import url('../blocks/presentation/__image/presentation__image.css');
+@import url('../blocks/presentation/__subtitle/presentation__subtitle.css');
+@import url('../blocks/presentation/__title/presentation__title.css');
