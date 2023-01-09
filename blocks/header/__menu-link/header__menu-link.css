@@ -1,0 +1,9 @@
+.header__menu-link {
+    color: #FFF;
+    text-decoration: none;
+    margin-left: 32px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.05em;
+}
