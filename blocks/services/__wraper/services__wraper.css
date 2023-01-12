@@ -1,5 +1,7 @@
 .services__wraper {
-    max-width: 527px;
-    text-align: center;
+    padding: 110px 0 50px 860px;
+    height: 680px;
+    box-sizing: border-box;
     margin: auto;
+    position: relative;
 }

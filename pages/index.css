@@ -27,10 +27,8 @@
 
 @import url('../blocks/services/services.css');
 @import url('../blocks/services/__button/services__button.css');
-@import url('../blocks/services/__logo-link/services__logo-link.css');
-@import url('../blocks/services/__logo/services__logo.css');
+@import url('../blocks/services/__image/services__image.css');
 @import url('../blocks/services/__menu-item/services__menu-item.css');
-@import url('../blocks/services/__menu-link/services__menu-link.css');
 @import url('../blocks/services/__menu-list/services__menu-list.css');
 @import url('../blocks/services/__subtitle/services__subtitle.css');
 @import url('../blocks/services/__title/services__title.css');

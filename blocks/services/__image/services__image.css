@@ -1,0 +1,9 @@
+.services__image {
+    background: url('../../../images/meeting_room.jpg') no-repeat center/contain;
+    width: 800px;
+    height: 760px;
+    position: absolute;
+    left: 0;
+    top: -80px;
+    z-index: 1;
+}

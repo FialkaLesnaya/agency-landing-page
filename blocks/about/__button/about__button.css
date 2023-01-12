@@ -1,9 +1,11 @@
 .about__button {
-    background: #000; /* Синий цвет фона */ 
-    color: white; /* Белые буквы */ 
+    background: #000;
+    color: white;
     border-radius: 40px;
-    width: 143px;
-    height: 44px;
     padding: 10px 20px;
-    margin: 20px auto;
+    margin: 40px 0 0 0;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    cursor: pointer;
 }
